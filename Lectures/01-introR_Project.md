@@ -35,14 +35,18 @@ It contains basic data about people such as their name, age, gender and race. Al
 
 ## Questions to be answered:
 
-1. Please find the Racial Distribution Of Police Shooting Victims?
-2. What is Gender distribution of the victims?
-3. Can we get some insights on their age?
-4. Plot a graph on Number of police shootings over the years 2015-2020
-5. What is the ratio of manner of death?
-6. What is racial distribution of victims who were Shot and Tasered
-7. What are the most common weapons present with the victims?
-8. Can you find City wise distributions of Police Killings?
+Please present the following visualisation along with insights you gained by analysing the dataset. Please use new slides for each question and in total there should be a minimum of 10 slides. 
+
+1. Please plot Deaths by Shooting (Date). 
+2. Please plot US Police Shootings Deaths by age. 
+3. Visulaise the number of death in each state and by race. `Hint`: Please plot one bar chart and one pie chart. 
+4. Please plot US Police Shootings Deaths by Manner of Death
+5. Please plot US Police Shootings by Cities
+6. Plot plot US Police Shootings Deaths by Gun type
+7. Please plot US Police Shootings Deaths by Gun Category
+8. Please plot Death distribution between race and gender.
+9. Please plot Death distribution by race (2015 to 2020).
+10. Please visulaise US Police Shootings Deaths by Body cam Use as Pie chart and sign of mental illness. 
 
 Acknowledgements
 Kaggle.com
