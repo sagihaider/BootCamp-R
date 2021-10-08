@@ -1,12 +1,13 @@
 ---
 title: "Introduction to R and RStudio"
-subtitle: "Summer Boot Camp: Day 1, University of Essex"
 author: "Haider Raza, PhD"
 date: "Monday, September 13, 2021"
 output:
+  word_document: default
+  pdf_document: default
   html_document:
     df_print: paged
-  pdf_document: default
+subtitle: 'Summer Boot Camp: Day 1, University of Essex'
 authors: Haider Raza
 ---
 Approximate time: 180 minutes
